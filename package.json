@@ -1,5 +1,5 @@
 {
-  "name": "api-sensors",
+  "name": "node-api-starter",
   "main": "server.js",
   "version": "0.0.1",
   "author": "Jeff Hostetler",
